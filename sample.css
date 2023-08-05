@@ -69,22 +69,21 @@ footer {
 @media screen and (max-width: 768px) {
  header {
    width: 100%;
-   background-color: white;
  }
- 
+
  main {
    display: inline-block;
    flex-direction: column;
    width: 100%;
    margin: 40px 0 40px 0;
  }
- 
+
  .step-box {
    width: 90%;
    display: inline-block;
    margin: 10px 0 10px 30px;
  }
- 
+
  .step-img1 {
    width: 100%;
  }
@@ -94,10 +93,9 @@ footer {
  .step-img3 {
    width: 100%;
  }
- 
+
  footer {
    width: 100%;
-   color: white;
  }
- 
+
 }
